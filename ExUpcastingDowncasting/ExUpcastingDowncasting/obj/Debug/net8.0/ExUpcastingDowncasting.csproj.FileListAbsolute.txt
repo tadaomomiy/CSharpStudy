@@ -1,0 +1,14 @@
+C:\Users\fazso\source\repos\ExUpcastingDowncasting\ExUpcastingDowncasting\obj\Debug\net8.0\ExUpcastingDowncasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fazso\source\repos\ExUpcastingDowncasting\ExUpcastingDowncasting\obj\Debug\net8.0\ExUpcastingDowncasting.AssemblyInfoInputs.cache
+C:\Users\fazso\source\repos\ExUpcastingDowncasting\ExUpcastingDowncasting\obj\Debug\net8.0\ExUpcastingDowncasting.AssemblyInfo.cs
+C:\Users\fazso\source\repos\ExUpcastingDowncasting\ExUpcastingDowncasting\obj\Debug\net8.0\ExUpcastingDowncasting.csproj.CoreCompileInputs.cache
+C:\Users\fazso\source\repos\ExUpcastingDowncasting\ExUpcastingDowncasting\bin\Debug\net8.0\ExUpcastingDowncasting.exe
+C:\Users\fazso\source\repos\ExUpcastingDowncasting\ExUpcastingDowncasting\bin\Debug\net8.0\ExUpcastingDowncasting.deps.json
+C:\Users\fazso\source\repos\ExUpcastingDowncasting\ExUpcastingDowncasting\bin\Debug\net8.0\ExUpcastingDowncasting.runtimeconfig.json
+C:\Users\fazso\source\repos\ExUpcastingDowncasting\ExUpcastingDowncasting\bin\Debug\net8.0\ExUpcastingDowncasting.dll
+C:\Users\fazso\source\repos\ExUpcastingDowncasting\ExUpcastingDowncasting\bin\Debug\net8.0\ExUpcastingDowncasting.pdb
+C:\Users\fazso\source\repos\ExUpcastingDowncasting\ExUpcastingDowncasting\obj\Debug\net8.0\ExUpcastingDowncasting.dll
+C:\Users\fazso\source\repos\ExUpcastingDowncasting\ExUpcastingDowncasting\obj\Debug\net8.0\refint\ExUpcastingDowncasting.dll
+C:\Users\fazso\source\repos\ExUpcastingDowncasting\ExUpcastingDowncasting\obj\Debug\net8.0\ExUpcastingDowncasting.pdb
+C:\Users\fazso\source\repos\ExUpcastingDowncasting\ExUpcastingDowncasting\obj\Debug\net8.0\ExUpcastingDowncasting.genruntimeconfig.cache
+C:\Users\fazso\source\repos\ExUpcastingDowncasting\ExUpcastingDowncasting\obj\Debug\net8.0\ref\ExUpcastingDowncasting.dll

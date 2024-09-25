@@ -1,0 +1,14 @@
+C:\Users\fazso\source\repos\ExSobreposicaoVirtualOverride\ExSobreposicaoVirtualOverride\bin\Debug\net8.0\ExSobreposicaoVirtualOverride.exe
+C:\Users\fazso\source\repos\ExSobreposicaoVirtualOverride\ExSobreposicaoVirtualOverride\bin\Debug\net8.0\ExSobreposicaoVirtualOverride.deps.json
+C:\Users\fazso\source\repos\ExSobreposicaoVirtualOverride\ExSobreposicaoVirtualOverride\bin\Debug\net8.0\ExSobreposicaoVirtualOverride.runtimeconfig.json
+C:\Users\fazso\source\repos\ExSobreposicaoVirtualOverride\ExSobreposicaoVirtualOverride\bin\Debug\net8.0\ExSobreposicaoVirtualOverride.dll
+C:\Users\fazso\source\repos\ExSobreposicaoVirtualOverride\ExSobreposicaoVirtualOverride\bin\Debug\net8.0\ExSobreposicaoVirtualOverride.pdb
+C:\Users\fazso\source\repos\ExSobreposicaoVirtualOverride\ExSobreposicaoVirtualOverride\obj\Debug\net8.0\ExSobreposicaoVirtualOverride.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fazso\source\repos\ExSobreposicaoVirtualOverride\ExSobreposicaoVirtualOverride\obj\Debug\net8.0\ExSobreposicaoVirtualOverride.AssemblyInfoInputs.cache
+C:\Users\fazso\source\repos\ExSobreposicaoVirtualOverride\ExSobreposicaoVirtualOverride\obj\Debug\net8.0\ExSobreposicaoVirtualOverride.AssemblyInfo.cs
+C:\Users\fazso\source\repos\ExSobreposicaoVirtualOverride\ExSobreposicaoVirtualOverride\obj\Debug\net8.0\ExSobreposicaoVirtualOverride.csproj.CoreCompileInputs.cache
+C:\Users\fazso\source\repos\ExSobreposicaoVirtualOverride\ExSobreposicaoVirtualOverride\obj\Debug\net8.0\ExSobreposicaoVirtualOverride.dll
+C:\Users\fazso\source\repos\ExSobreposicaoVirtualOverride\ExSobreposicaoVirtualOverride\obj\Debug\net8.0\refint\ExSobreposicaoVirtualOverride.dll
+C:\Users\fazso\source\repos\ExSobreposicaoVirtualOverride\ExSobreposicaoVirtualOverride\obj\Debug\net8.0\ExSobreposicaoVirtualOverride.pdb
+C:\Users\fazso\source\repos\ExSobreposicaoVirtualOverride\ExSobreposicaoVirtualOverride\obj\Debug\net8.0\ExSobreposicaoVirtualOverride.genruntimeconfig.cache
+C:\Users\fazso\source\repos\ExSobreposicaoVirtualOverride\ExSobreposicaoVirtualOverride\obj\Debug\net8.0\ref\ExSobreposicaoVirtualOverride.dll
