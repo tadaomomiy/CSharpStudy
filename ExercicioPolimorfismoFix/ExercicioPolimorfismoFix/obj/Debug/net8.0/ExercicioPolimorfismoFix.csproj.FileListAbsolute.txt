@@ -1,0 +1,14 @@
+C:\Users\fazso\source\repos\ExercicioPolimorfismoFix\ExercicioPolimorfismoFix\bin\Debug\net8.0\ExercicioPolimorfismoFix.exe
+C:\Users\fazso\source\repos\ExercicioPolimorfismoFix\ExercicioPolimorfismoFix\bin\Debug\net8.0\ExercicioPolimorfismoFix.deps.json
+C:\Users\fazso\source\repos\ExercicioPolimorfismoFix\ExercicioPolimorfismoFix\bin\Debug\net8.0\ExercicioPolimorfismoFix.runtimeconfig.json
+C:\Users\fazso\source\repos\ExercicioPolimorfismoFix\ExercicioPolimorfismoFix\bin\Debug\net8.0\ExercicioPolimorfismoFix.dll
+C:\Users\fazso\source\repos\ExercicioPolimorfismoFix\ExercicioPolimorfismoFix\bin\Debug\net8.0\ExercicioPolimorfismoFix.pdb
+C:\Users\fazso\source\repos\ExercicioPolimorfismoFix\ExercicioPolimorfismoFix\obj\Debug\net8.0\ExercicioPolimorfismoFix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fazso\source\repos\ExercicioPolimorfismoFix\ExercicioPolimorfismoFix\obj\Debug\net8.0\ExercicioPolimorfismoFix.AssemblyInfoInputs.cache
+C:\Users\fazso\source\repos\ExercicioPolimorfismoFix\ExercicioPolimorfismoFix\obj\Debug\net8.0\ExercicioPolimorfismoFix.AssemblyInfo.cs
+C:\Users\fazso\source\repos\ExercicioPolimorfismoFix\ExercicioPolimorfismoFix\obj\Debug\net8.0\ExercicioPolimorfismoFix.csproj.CoreCompileInputs.cache
+C:\Users\fazso\source\repos\ExercicioPolimorfismoFix\ExercicioPolimorfismoFix\obj\Debug\net8.0\ExercicioPolimorfismoFix.dll
+C:\Users\fazso\source\repos\ExercicioPolimorfismoFix\ExercicioPolimorfismoFix\obj\Debug\net8.0\refint\ExercicioPolimorfismoFix.dll
+C:\Users\fazso\source\repos\ExercicioPolimorfismoFix\ExercicioPolimorfismoFix\obj\Debug\net8.0\ExercicioPolimorfismoFix.pdb
+C:\Users\fazso\source\repos\ExercicioPolimorfismoFix\ExercicioPolimorfismoFix\obj\Debug\net8.0\ExercicioPolimorfismoFix.genruntimeconfig.cache
+C:\Users\fazso\source\repos\ExercicioPolimorfismoFix\ExercicioPolimorfismoFix\obj\Debug\net8.0\ref\ExercicioPolimorfismoFix.dll

@@ -1,0 +1,14 @@
+C:\Users\fazso\source\repos\ExPolimorfismo\ExPolimorfismo\obj\Debug\net8.0\ExPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fazso\source\repos\ExPolimorfismo\ExPolimorfismo\obj\Debug\net8.0\ExPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\fazso\source\repos\ExPolimorfismo\ExPolimorfismo\obj\Debug\net8.0\ExPolimorfismo.AssemblyInfo.cs
+C:\Users\fazso\source\repos\ExPolimorfismo\ExPolimorfismo\obj\Debug\net8.0\ExPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\fazso\source\repos\ExPolimorfismo\ExPolimorfismo\bin\Debug\net8.0\ExPolimorfismo.exe
+C:\Users\fazso\source\repos\ExPolimorfismo\ExPolimorfismo\bin\Debug\net8.0\ExPolimorfismo.deps.json
+C:\Users\fazso\source\repos\ExPolimorfismo\ExPolimorfismo\bin\Debug\net8.0\ExPolimorfismo.runtimeconfig.json
+C:\Users\fazso\source\repos\ExPolimorfismo\ExPolimorfismo\bin\Debug\net8.0\ExPolimorfismo.dll
+C:\Users\fazso\source\repos\ExPolimorfismo\ExPolimorfismo\bin\Debug\net8.0\ExPolimorfismo.pdb
+C:\Users\fazso\source\repos\ExPolimorfismo\ExPolimorfismo\obj\Debug\net8.0\ExPolimorfismo.dll
+C:\Users\fazso\source\repos\ExPolimorfismo\ExPolimorfismo\obj\Debug\net8.0\refint\ExPolimorfismo.dll
+C:\Users\fazso\source\repos\ExPolimorfismo\ExPolimorfismo\obj\Debug\net8.0\ExPolimorfismo.pdb
+C:\Users\fazso\source\repos\ExPolimorfismo\ExPolimorfismo\obj\Debug\net8.0\ExPolimorfismo.genruntimeconfig.cache
+C:\Users\fazso\source\repos\ExPolimorfismo\ExPolimorfismo\obj\Debug\net8.0\ref\ExPolimorfismo.dll
