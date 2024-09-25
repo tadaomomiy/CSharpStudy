@@ -1,0 +1,14 @@
+C:\Users\fazso\source\repos\ExercicioMatrizes\ExercicioMatrizes\bin\Debug\net8.0\ExercicioMatrizes.exe
+C:\Users\fazso\source\repos\ExercicioMatrizes\ExercicioMatrizes\bin\Debug\net8.0\ExercicioMatrizes.deps.json
+C:\Users\fazso\source\repos\ExercicioMatrizes\ExercicioMatrizes\bin\Debug\net8.0\ExercicioMatrizes.runtimeconfig.json
+C:\Users\fazso\source\repos\ExercicioMatrizes\ExercicioMatrizes\bin\Debug\net8.0\ExercicioMatrizes.dll
+C:\Users\fazso\source\repos\ExercicioMatrizes\ExercicioMatrizes\bin\Debug\net8.0\ExercicioMatrizes.pdb
+C:\Users\fazso\source\repos\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net8.0\ExercicioMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fazso\source\repos\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net8.0\ExercicioMatrizes.AssemblyInfoInputs.cache
+C:\Users\fazso\source\repos\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net8.0\ExercicioMatrizes.AssemblyInfo.cs
+C:\Users\fazso\source\repos\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net8.0\ExercicioMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\fazso\source\repos\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net8.0\ExercicioMatrizes.dll
+C:\Users\fazso\source\repos\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net8.0\refint\ExercicioMatrizes.dll
+C:\Users\fazso\source\repos\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net8.0\ExercicioMatrizes.pdb
+C:\Users\fazso\source\repos\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net8.0\ExercicioMatrizes.genruntimeconfig.cache
+C:\Users\fazso\source\repos\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net8.0\ref\ExercicioMatrizes.dll

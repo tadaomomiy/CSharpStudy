@@ -1,0 +1,14 @@
+C:\Users\fazso\source\repos\ExercicioList\ExercicioList\bin\Debug\net8.0\ExercicioList.exe
+C:\Users\fazso\source\repos\ExercicioList\ExercicioList\bin\Debug\net8.0\ExercicioList.deps.json
+C:\Users\fazso\source\repos\ExercicioList\ExercicioList\bin\Debug\net8.0\ExercicioList.runtimeconfig.json
+C:\Users\fazso\source\repos\ExercicioList\ExercicioList\bin\Debug\net8.0\ExercicioList.dll
+C:\Users\fazso\source\repos\ExercicioList\ExercicioList\bin\Debug\net8.0\ExercicioList.pdb
+C:\Users\fazso\source\repos\ExercicioList\ExercicioList\obj\Debug\net8.0\ExercicioList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fazso\source\repos\ExercicioList\ExercicioList\obj\Debug\net8.0\ExercicioList.AssemblyInfoInputs.cache
+C:\Users\fazso\source\repos\ExercicioList\ExercicioList\obj\Debug\net8.0\ExercicioList.AssemblyInfo.cs
+C:\Users\fazso\source\repos\ExercicioList\ExercicioList\obj\Debug\net8.0\ExercicioList.csproj.CoreCompileInputs.cache
+C:\Users\fazso\source\repos\ExercicioList\ExercicioList\obj\Debug\net8.0\ExercicioList.dll
+C:\Users\fazso\source\repos\ExercicioList\ExercicioList\obj\Debug\net8.0\refint\ExercicioList.dll
+C:\Users\fazso\source\repos\ExercicioList\ExercicioList\obj\Debug\net8.0\ExercicioList.pdb
+C:\Users\fazso\source\repos\ExercicioList\ExercicioList\obj\Debug\net8.0\ExercicioList.genruntimeconfig.cache
+C:\Users\fazso\source\repos\ExercicioList\ExercicioList\obj\Debug\net8.0\ref\ExercicioList.dll

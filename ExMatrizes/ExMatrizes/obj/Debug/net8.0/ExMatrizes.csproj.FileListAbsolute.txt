@@ -1,0 +1,14 @@
+C:\Users\fazso\source\repos\ExMatrizes\ExMatrizes\bin\Debug\net8.0\ExMatrizes.exe
+C:\Users\fazso\source\repos\ExMatrizes\ExMatrizes\bin\Debug\net8.0\ExMatrizes.deps.json
+C:\Users\fazso\source\repos\ExMatrizes\ExMatrizes\bin\Debug\net8.0\ExMatrizes.runtimeconfig.json
+C:\Users\fazso\source\repos\ExMatrizes\ExMatrizes\bin\Debug\net8.0\ExMatrizes.dll
+C:\Users\fazso\source\repos\ExMatrizes\ExMatrizes\bin\Debug\net8.0\ExMatrizes.pdb
+C:\Users\fazso\source\repos\ExMatrizes\ExMatrizes\obj\Debug\net8.0\ExMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fazso\source\repos\ExMatrizes\ExMatrizes\obj\Debug\net8.0\ExMatrizes.AssemblyInfoInputs.cache
+C:\Users\fazso\source\repos\ExMatrizes\ExMatrizes\obj\Debug\net8.0\ExMatrizes.AssemblyInfo.cs
+C:\Users\fazso\source\repos\ExMatrizes\ExMatrizes\obj\Debug\net8.0\ExMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\fazso\source\repos\ExMatrizes\ExMatrizes\obj\Debug\net8.0\ExMatrizes.dll
+C:\Users\fazso\source\repos\ExMatrizes\ExMatrizes\obj\Debug\net8.0\refint\ExMatrizes.dll
+C:\Users\fazso\source\repos\ExMatrizes\ExMatrizes\obj\Debug\net8.0\ExMatrizes.pdb
+C:\Users\fazso\source\repos\ExMatrizes\ExMatrizes\obj\Debug\net8.0\ExMatrizes.genruntimeconfig.cache
+C:\Users\fazso\source\repos\ExMatrizes\ExMatrizes\obj\Debug\net8.0\ref\ExMatrizes.dll
