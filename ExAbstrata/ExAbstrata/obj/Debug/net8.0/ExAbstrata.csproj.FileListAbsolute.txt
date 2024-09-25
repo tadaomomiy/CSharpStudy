@@ -1,0 +1,14 @@
+C:\Users\fazso\source\repos\ExAbstrata\ExAbstrata\bin\Debug\net8.0\ExAbstrata.exe
+C:\Users\fazso\source\repos\ExAbstrata\ExAbstrata\bin\Debug\net8.0\ExAbstrata.deps.json
+C:\Users\fazso\source\repos\ExAbstrata\ExAbstrata\bin\Debug\net8.0\ExAbstrata.runtimeconfig.json
+C:\Users\fazso\source\repos\ExAbstrata\ExAbstrata\bin\Debug\net8.0\ExAbstrata.dll
+C:\Users\fazso\source\repos\ExAbstrata\ExAbstrata\bin\Debug\net8.0\ExAbstrata.pdb
+C:\Users\fazso\source\repos\ExAbstrata\ExAbstrata\obj\Debug\net8.0\ExAbstrata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fazso\source\repos\ExAbstrata\ExAbstrata\obj\Debug\net8.0\ExAbstrata.AssemblyInfoInputs.cache
+C:\Users\fazso\source\repos\ExAbstrata\ExAbstrata\obj\Debug\net8.0\ExAbstrata.AssemblyInfo.cs
+C:\Users\fazso\source\repos\ExAbstrata\ExAbstrata\obj\Debug\net8.0\ExAbstrata.csproj.CoreCompileInputs.cache
+C:\Users\fazso\source\repos\ExAbstrata\ExAbstrata\obj\Debug\net8.0\ExAbstrata.dll
+C:\Users\fazso\source\repos\ExAbstrata\ExAbstrata\obj\Debug\net8.0\refint\ExAbstrata.dll
+C:\Users\fazso\source\repos\ExAbstrata\ExAbstrata\obj\Debug\net8.0\ExAbstrata.pdb
+C:\Users\fazso\source\repos\ExAbstrata\ExAbstrata\obj\Debug\net8.0\ExAbstrata.genruntimeconfig.cache
+C:\Users\fazso\source\repos\ExAbstrata\ExAbstrata\obj\Debug\net8.0\ref\ExAbstrata.dll

@@ -1,0 +1,14 @@
+C:\Users\fazso\source\repos\ExMetodosAbstratos\ExMetodosAbstratos\bin\Debug\net8.0\ExMetodosAbstratos.exe
+C:\Users\fazso\source\repos\ExMetodosAbstratos\ExMetodosAbstratos\bin\Debug\net8.0\ExMetodosAbstratos.deps.json
+C:\Users\fazso\source\repos\ExMetodosAbstratos\ExMetodosAbstratos\bin\Debug\net8.0\ExMetodosAbstratos.runtimeconfig.json
+C:\Users\fazso\source\repos\ExMetodosAbstratos\ExMetodosAbstratos\bin\Debug\net8.0\ExMetodosAbstratos.dll
+C:\Users\fazso\source\repos\ExMetodosAbstratos\ExMetodosAbstratos\bin\Debug\net8.0\ExMetodosAbstratos.pdb
+C:\Users\fazso\source\repos\ExMetodosAbstratos\ExMetodosAbstratos\obj\Debug\net8.0\ExMetodosAbstratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fazso\source\repos\ExMetodosAbstratos\ExMetodosAbstratos\obj\Debug\net8.0\ExMetodosAbstratos.AssemblyInfoInputs.cache
+C:\Users\fazso\source\repos\ExMetodosAbstratos\ExMetodosAbstratos\obj\Debug\net8.0\ExMetodosAbstratos.AssemblyInfo.cs
+C:\Users\fazso\source\repos\ExMetodosAbstratos\ExMetodosAbstratos\obj\Debug\net8.0\ExMetodosAbstratos.csproj.CoreCompileInputs.cache
+C:\Users\fazso\source\repos\ExMetodosAbstratos\ExMetodosAbstratos\obj\Debug\net8.0\ExMetodosAbstratos.dll
+C:\Users\fazso\source\repos\ExMetodosAbstratos\ExMetodosAbstratos\obj\Debug\net8.0\refint\ExMetodosAbstratos.dll
+C:\Users\fazso\source\repos\ExMetodosAbstratos\ExMetodosAbstratos\obj\Debug\net8.0\ExMetodosAbstratos.pdb
+C:\Users\fazso\source\repos\ExMetodosAbstratos\ExMetodosAbstratos\obj\Debug\net8.0\ExMetodosAbstratos.genruntimeconfig.cache
+C:\Users\fazso\source\repos\ExMetodosAbstratos\ExMetodosAbstratos\obj\Debug\net8.0\ref\ExMetodosAbstratos.dll

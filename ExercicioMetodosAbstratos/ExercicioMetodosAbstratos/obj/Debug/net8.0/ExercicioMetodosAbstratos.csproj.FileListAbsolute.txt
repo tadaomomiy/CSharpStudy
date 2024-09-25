@@ -1,0 +1,14 @@
+C:\Users\fazso\source\repos\ExercicioMetodosAbstratos\ExercicioMetodosAbstratos\bin\Debug\net8.0\ExercicioMetodosAbstratos.exe
+C:\Users\fazso\source\repos\ExercicioMetodosAbstratos\ExercicioMetodosAbstratos\bin\Debug\net8.0\ExercicioMetodosAbstratos.deps.json
+C:\Users\fazso\source\repos\ExercicioMetodosAbstratos\ExercicioMetodosAbstratos\bin\Debug\net8.0\ExercicioMetodosAbstratos.runtimeconfig.json
+C:\Users\fazso\source\repos\ExercicioMetodosAbstratos\ExercicioMetodosAbstratos\bin\Debug\net8.0\ExercicioMetodosAbstratos.dll
+C:\Users\fazso\source\repos\ExercicioMetodosAbstratos\ExercicioMetodosAbstratos\bin\Debug\net8.0\ExercicioMetodosAbstratos.pdb
+C:\Users\fazso\source\repos\ExercicioMetodosAbstratos\ExercicioMetodosAbstratos\obj\Debug\net8.0\ExercicioMetodosAbstratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fazso\source\repos\ExercicioMetodosAbstratos\ExercicioMetodosAbstratos\obj\Debug\net8.0\ExercicioMetodosAbstratos.AssemblyInfoInputs.cache
+C:\Users\fazso\source\repos\ExercicioMetodosAbstratos\ExercicioMetodosAbstratos\obj\Debug\net8.0\ExercicioMetodosAbstratos.AssemblyInfo.cs
+C:\Users\fazso\source\repos\ExercicioMetodosAbstratos\ExercicioMetodosAbstratos\obj\Debug\net8.0\ExercicioMetodosAbstratos.csproj.CoreCompileInputs.cache
+C:\Users\fazso\source\repos\ExercicioMetodosAbstratos\ExercicioMetodosAbstratos\obj\Debug\net8.0\ExercicioMetodosAbstratos.dll
+C:\Users\fazso\source\repos\ExercicioMetodosAbstratos\ExercicioMetodosAbstratos\obj\Debug\net8.0\refint\ExercicioMetodosAbstratos.dll
+C:\Users\fazso\source\repos\ExercicioMetodosAbstratos\ExercicioMetodosAbstratos\obj\Debug\net8.0\ExercicioMetodosAbstratos.pdb
+C:\Users\fazso\source\repos\ExercicioMetodosAbstratos\ExercicioMetodosAbstratos\obj\Debug\net8.0\ExercicioMetodosAbstratos.genruntimeconfig.cache
+C:\Users\fazso\source\repos\ExercicioMetodosAbstratos\ExercicioMetodosAbstratos\obj\Debug\net8.0\ref\ExercicioMetodosAbstratos.dll
