@@ -1,0 +1,14 @@
+C:\Users\fazso\source\repos\ExercicioComposicaoEnum\ExercicioComposicaoEnum\bin\Debug\net8.0\ExercicioComposicaoEnum.exe
+C:\Users\fazso\source\repos\ExercicioComposicaoEnum\ExercicioComposicaoEnum\bin\Debug\net8.0\ExercicioComposicaoEnum.deps.json
+C:\Users\fazso\source\repos\ExercicioComposicaoEnum\ExercicioComposicaoEnum\bin\Debug\net8.0\ExercicioComposicaoEnum.runtimeconfig.json
+C:\Users\fazso\source\repos\ExercicioComposicaoEnum\ExercicioComposicaoEnum\bin\Debug\net8.0\ExercicioComposicaoEnum.dll
+C:\Users\fazso\source\repos\ExercicioComposicaoEnum\ExercicioComposicaoEnum\bin\Debug\net8.0\ExercicioComposicaoEnum.pdb
+C:\Users\fazso\source\repos\ExercicioComposicaoEnum\ExercicioComposicaoEnum\obj\Debug\net8.0\ExercicioComposicaoEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fazso\source\repos\ExercicioComposicaoEnum\ExercicioComposicaoEnum\obj\Debug\net8.0\ExercicioComposicaoEnum.AssemblyInfoInputs.cache
+C:\Users\fazso\source\repos\ExercicioComposicaoEnum\ExercicioComposicaoEnum\obj\Debug\net8.0\ExercicioComposicaoEnum.AssemblyInfo.cs
+C:\Users\fazso\source\repos\ExercicioComposicaoEnum\ExercicioComposicaoEnum\obj\Debug\net8.0\ExercicioComposicaoEnum.csproj.CoreCompileInputs.cache
+C:\Users\fazso\source\repos\ExercicioComposicaoEnum\ExercicioComposicaoEnum\obj\Debug\net8.0\ExercicioComposicaoEnum.dll
+C:\Users\fazso\source\repos\ExercicioComposicaoEnum\ExercicioComposicaoEnum\obj\Debug\net8.0\refint\ExercicioComposicaoEnum.dll
+C:\Users\fazso\source\repos\ExercicioComposicaoEnum\ExercicioComposicaoEnum\obj\Debug\net8.0\ExercicioComposicaoEnum.pdb
+C:\Users\fazso\source\repos\ExercicioComposicaoEnum\ExercicioComposicaoEnum\obj\Debug\net8.0\ExercicioComposicaoEnum.genruntimeconfig.cache
+C:\Users\fazso\source\repos\ExercicioComposicaoEnum\ExercicioComposicaoEnum\obj\Debug\net8.0\ref\ExercicioComposicaoEnum.dll

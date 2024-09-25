@@ -1,0 +1,14 @@
+C:\Users\fazso\source\repos\ExercicioEnumeracao\ExercicioEnumeracao\bin\Debug\net8.0\ExercicioEnumeracao.exe
+C:\Users\fazso\source\repos\ExercicioEnumeracao\ExercicioEnumeracao\bin\Debug\net8.0\ExercicioEnumeracao.deps.json
+C:\Users\fazso\source\repos\ExercicioEnumeracao\ExercicioEnumeracao\bin\Debug\net8.0\ExercicioEnumeracao.runtimeconfig.json
+C:\Users\fazso\source\repos\ExercicioEnumeracao\ExercicioEnumeracao\bin\Debug\net8.0\ExercicioEnumeracao.dll
+C:\Users\fazso\source\repos\ExercicioEnumeracao\ExercicioEnumeracao\bin\Debug\net8.0\ExercicioEnumeracao.pdb
+C:\Users\fazso\source\repos\ExercicioEnumeracao\ExercicioEnumeracao\obj\Debug\net8.0\ExercicioEnumeracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fazso\source\repos\ExercicioEnumeracao\ExercicioEnumeracao\obj\Debug\net8.0\ExercicioEnumeracao.AssemblyInfoInputs.cache
+C:\Users\fazso\source\repos\ExercicioEnumeracao\ExercicioEnumeracao\obj\Debug\net8.0\ExercicioEnumeracao.AssemblyInfo.cs
+C:\Users\fazso\source\repos\ExercicioEnumeracao\ExercicioEnumeracao\obj\Debug\net8.0\ExercicioEnumeracao.csproj.CoreCompileInputs.cache
+C:\Users\fazso\source\repos\ExercicioEnumeracao\ExercicioEnumeracao\obj\Debug\net8.0\ExercicioEnumeracao.dll
+C:\Users\fazso\source\repos\ExercicioEnumeracao\ExercicioEnumeracao\obj\Debug\net8.0\refint\ExercicioEnumeracao.dll
+C:\Users\fazso\source\repos\ExercicioEnumeracao\ExercicioEnumeracao\obj\Debug\net8.0\ExercicioEnumeracao.pdb
+C:\Users\fazso\source\repos\ExercicioEnumeracao\ExercicioEnumeracao\obj\Debug\net8.0\ExercicioEnumeracao.genruntimeconfig.cache
+C:\Users\fazso\source\repos\ExercicioEnumeracao\ExercicioEnumeracao\obj\Debug\net8.0\ref\ExercicioEnumeracao.dll
