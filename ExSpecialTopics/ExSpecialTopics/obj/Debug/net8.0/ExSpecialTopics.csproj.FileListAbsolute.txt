@@ -1,0 +1,14 @@
+C:\Users\fazso\source\repos\ExSpecialTopics\ExSpecialTopics\bin\Debug\net8.0\ExSpecialTopics.exe
+C:\Users\fazso\source\repos\ExSpecialTopics\ExSpecialTopics\bin\Debug\net8.0\ExSpecialTopics.deps.json
+C:\Users\fazso\source\repos\ExSpecialTopics\ExSpecialTopics\bin\Debug\net8.0\ExSpecialTopics.runtimeconfig.json
+C:\Users\fazso\source\repos\ExSpecialTopics\ExSpecialTopics\bin\Debug\net8.0\ExSpecialTopics.dll
+C:\Users\fazso\source\repos\ExSpecialTopics\ExSpecialTopics\bin\Debug\net8.0\ExSpecialTopics.pdb
+C:\Users\fazso\source\repos\ExSpecialTopics\ExSpecialTopics\obj\Debug\net8.0\ExSpecialTopics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fazso\source\repos\ExSpecialTopics\ExSpecialTopics\obj\Debug\net8.0\ExSpecialTopics.AssemblyInfoInputs.cache
+C:\Users\fazso\source\repos\ExSpecialTopics\ExSpecialTopics\obj\Debug\net8.0\ExSpecialTopics.AssemblyInfo.cs
+C:\Users\fazso\source\repos\ExSpecialTopics\ExSpecialTopics\obj\Debug\net8.0\ExSpecialTopics.csproj.CoreCompileInputs.cache
+C:\Users\fazso\source\repos\ExSpecialTopics\ExSpecialTopics\obj\Debug\net8.0\ExSpecialTopics.dll
+C:\Users\fazso\source\repos\ExSpecialTopics\ExSpecialTopics\obj\Debug\net8.0\refint\ExSpecialTopics.dll
+C:\Users\fazso\source\repos\ExSpecialTopics\ExSpecialTopics\obj\Debug\net8.0\ExSpecialTopics.pdb
+C:\Users\fazso\source\repos\ExSpecialTopics\ExSpecialTopics\obj\Debug\net8.0\ExSpecialTopics.genruntimeconfig.cache
+C:\Users\fazso\source\repos\ExSpecialTopics\ExSpecialTopics\obj\Debug\net8.0\ref\ExSpecialTopics.dll

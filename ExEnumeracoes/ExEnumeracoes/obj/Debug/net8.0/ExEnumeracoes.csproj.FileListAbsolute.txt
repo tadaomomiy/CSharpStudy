@@ -1,0 +1,14 @@
+C:\Users\fazso\source\repos\ExEnumeracoes\ExEnumeracoes\bin\Debug\net8.0\ExEnumeracoes.exe
+C:\Users\fazso\source\repos\ExEnumeracoes\ExEnumeracoes\bin\Debug\net8.0\ExEnumeracoes.deps.json
+C:\Users\fazso\source\repos\ExEnumeracoes\ExEnumeracoes\bin\Debug\net8.0\ExEnumeracoes.runtimeconfig.json
+C:\Users\fazso\source\repos\ExEnumeracoes\ExEnumeracoes\bin\Debug\net8.0\ExEnumeracoes.dll
+C:\Users\fazso\source\repos\ExEnumeracoes\ExEnumeracoes\bin\Debug\net8.0\ExEnumeracoes.pdb
+C:\Users\fazso\source\repos\ExEnumeracoes\ExEnumeracoes\obj\Debug\net8.0\ExEnumeracoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fazso\source\repos\ExEnumeracoes\ExEnumeracoes\obj\Debug\net8.0\ExEnumeracoes.AssemblyInfoInputs.cache
+C:\Users\fazso\source\repos\ExEnumeracoes\ExEnumeracoes\obj\Debug\net8.0\ExEnumeracoes.AssemblyInfo.cs
+C:\Users\fazso\source\repos\ExEnumeracoes\ExEnumeracoes\obj\Debug\net8.0\ExEnumeracoes.csproj.CoreCompileInputs.cache
+C:\Users\fazso\source\repos\ExEnumeracoes\ExEnumeracoes\obj\Debug\net8.0\ExEnumeracoes.dll
+C:\Users\fazso\source\repos\ExEnumeracoes\ExEnumeracoes\obj\Debug\net8.0\refint\ExEnumeracoes.dll
+C:\Users\fazso\source\repos\ExEnumeracoes\ExEnumeracoes\obj\Debug\net8.0\ExEnumeracoes.pdb
+C:\Users\fazso\source\repos\ExEnumeracoes\ExEnumeracoes\obj\Debug\net8.0\ExEnumeracoes.genruntimeconfig.cache
+C:\Users\fazso\source\repos\ExEnumeracoes\ExEnumeracoes\obj\Debug\net8.0\ref\ExEnumeracoes.dll
