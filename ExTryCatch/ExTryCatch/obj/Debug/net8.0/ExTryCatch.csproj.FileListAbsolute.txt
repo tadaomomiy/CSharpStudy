@@ -1,0 +1,14 @@
+C:\Users\fazso\source\repos\ExTryCatch\ExTryCatch\bin\Debug\net8.0\ExTryCatch.exe
+C:\Users\fazso\source\repos\ExTryCatch\ExTryCatch\bin\Debug\net8.0\ExTryCatch.deps.json
+C:\Users\fazso\source\repos\ExTryCatch\ExTryCatch\bin\Debug\net8.0\ExTryCatch.runtimeconfig.json
+C:\Users\fazso\source\repos\ExTryCatch\ExTryCatch\bin\Debug\net8.0\ExTryCatch.dll
+C:\Users\fazso\source\repos\ExTryCatch\ExTryCatch\bin\Debug\net8.0\ExTryCatch.pdb
+C:\Users\fazso\source\repos\ExTryCatch\ExTryCatch\obj\Debug\net8.0\ExTryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fazso\source\repos\ExTryCatch\ExTryCatch\obj\Debug\net8.0\ExTryCatch.AssemblyInfoInputs.cache
+C:\Users\fazso\source\repos\ExTryCatch\ExTryCatch\obj\Debug\net8.0\ExTryCatch.AssemblyInfo.cs
+C:\Users\fazso\source\repos\ExTryCatch\ExTryCatch\obj\Debug\net8.0\ExTryCatch.csproj.CoreCompileInputs.cache
+C:\Users\fazso\source\repos\ExTryCatch\ExTryCatch\obj\Debug\net8.0\ExTryCatch.dll
+C:\Users\fazso\source\repos\ExTryCatch\ExTryCatch\obj\Debug\net8.0\refint\ExTryCatch.dll
+C:\Users\fazso\source\repos\ExTryCatch\ExTryCatch\obj\Debug\net8.0\ExTryCatch.pdb
+C:\Users\fazso\source\repos\ExTryCatch\ExTryCatch\obj\Debug\net8.0\ExTryCatch.genruntimeconfig.cache
+C:\Users\fazso\source\repos\ExTryCatch\ExTryCatch\obj\Debug\net8.0\ref\ExTryCatch.dll

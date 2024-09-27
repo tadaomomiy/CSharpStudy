@@ -1,0 +1,14 @@
+C:\Users\fazso\source\repos\ExExcecaoString\ExExcecaoString\bin\Debug\net8.0\ExExcecaoString.exe
+C:\Users\fazso\source\repos\ExExcecaoString\ExExcecaoString\bin\Debug\net8.0\ExExcecaoString.deps.json
+C:\Users\fazso\source\repos\ExExcecaoString\ExExcecaoString\bin\Debug\net8.0\ExExcecaoString.runtimeconfig.json
+C:\Users\fazso\source\repos\ExExcecaoString\ExExcecaoString\bin\Debug\net8.0\ExExcecaoString.dll
+C:\Users\fazso\source\repos\ExExcecaoString\ExExcecaoString\bin\Debug\net8.0\ExExcecaoString.pdb
+C:\Users\fazso\source\repos\ExExcecaoString\ExExcecaoString\obj\Debug\net8.0\ExExcecaoString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fazso\source\repos\ExExcecaoString\ExExcecaoString\obj\Debug\net8.0\ExExcecaoString.AssemblyInfoInputs.cache
+C:\Users\fazso\source\repos\ExExcecaoString\ExExcecaoString\obj\Debug\net8.0\ExExcecaoString.AssemblyInfo.cs
+C:\Users\fazso\source\repos\ExExcecaoString\ExExcecaoString\obj\Debug\net8.0\ExExcecaoString.csproj.CoreCompileInputs.cache
+C:\Users\fazso\source\repos\ExExcecaoString\ExExcecaoString\obj\Debug\net8.0\ExExcecaoString.dll
+C:\Users\fazso\source\repos\ExExcecaoString\ExExcecaoString\obj\Debug\net8.0\refint\ExExcecaoString.dll
+C:\Users\fazso\source\repos\ExExcecaoString\ExExcecaoString\obj\Debug\net8.0\ExExcecaoString.pdb
+C:\Users\fazso\source\repos\ExExcecaoString\ExExcecaoString\obj\Debug\net8.0\ExExcecaoString.genruntimeconfig.cache
+C:\Users\fazso\source\repos\ExExcecaoString\ExExcecaoString\obj\Debug\net8.0\ref\ExExcecaoString.dll

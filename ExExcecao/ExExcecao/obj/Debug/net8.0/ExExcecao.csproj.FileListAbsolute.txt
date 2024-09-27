@@ -1,0 +1,14 @@
+C:\Users\fazso\source\repos\ExExcecao\ExExcecao\bin\Debug\net8.0\ExExcecao.exe
+C:\Users\fazso\source\repos\ExExcecao\ExExcecao\bin\Debug\net8.0\ExExcecao.deps.json
+C:\Users\fazso\source\repos\ExExcecao\ExExcecao\bin\Debug\net8.0\ExExcecao.runtimeconfig.json
+C:\Users\fazso\source\repos\ExExcecao\ExExcecao\bin\Debug\net8.0\ExExcecao.dll
+C:\Users\fazso\source\repos\ExExcecao\ExExcecao\bin\Debug\net8.0\ExExcecao.pdb
+C:\Users\fazso\source\repos\ExExcecao\ExExcecao\obj\Debug\net8.0\ExExcecao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fazso\source\repos\ExExcecao\ExExcecao\obj\Debug\net8.0\ExExcecao.AssemblyInfoInputs.cache
+C:\Users\fazso\source\repos\ExExcecao\ExExcecao\obj\Debug\net8.0\ExExcecao.AssemblyInfo.cs
+C:\Users\fazso\source\repos\ExExcecao\ExExcecao\obj\Debug\net8.0\ExExcecao.csproj.CoreCompileInputs.cache
+C:\Users\fazso\source\repos\ExExcecao\ExExcecao\obj\Debug\net8.0\ExExcecao.dll
+C:\Users\fazso\source\repos\ExExcecao\ExExcecao\obj\Debug\net8.0\refint\ExExcecao.dll
+C:\Users\fazso\source\repos\ExExcecao\ExExcecao\obj\Debug\net8.0\ExExcecao.pdb
+C:\Users\fazso\source\repos\ExExcecao\ExExcecao\obj\Debug\net8.0\ExExcecao.genruntimeconfig.cache
+C:\Users\fazso\source\repos\ExExcecao\ExExcecao\obj\Debug\net8.0\ref\ExExcecao.dll
