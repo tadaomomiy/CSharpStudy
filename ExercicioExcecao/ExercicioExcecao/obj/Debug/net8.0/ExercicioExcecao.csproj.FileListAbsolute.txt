@@ -1,0 +1,14 @@
+C:\Users\fazso\source\repos\ExercicioExcecao\ExercicioExcecao\bin\Debug\net8.0\ExercicioExcecao.exe
+C:\Users\fazso\source\repos\ExercicioExcecao\ExercicioExcecao\bin\Debug\net8.0\ExercicioExcecao.deps.json
+C:\Users\fazso\source\repos\ExercicioExcecao\ExercicioExcecao\bin\Debug\net8.0\ExercicioExcecao.runtimeconfig.json
+C:\Users\fazso\source\repos\ExercicioExcecao\ExercicioExcecao\bin\Debug\net8.0\ExercicioExcecao.dll
+C:\Users\fazso\source\repos\ExercicioExcecao\ExercicioExcecao\bin\Debug\net8.0\ExercicioExcecao.pdb
+C:\Users\fazso\source\repos\ExercicioExcecao\ExercicioExcecao\obj\Debug\net8.0\ExercicioExcecao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fazso\source\repos\ExercicioExcecao\ExercicioExcecao\obj\Debug\net8.0\ExercicioExcecao.AssemblyInfoInputs.cache
+C:\Users\fazso\source\repos\ExercicioExcecao\ExercicioExcecao\obj\Debug\net8.0\ExercicioExcecao.AssemblyInfo.cs
+C:\Users\fazso\source\repos\ExercicioExcecao\ExercicioExcecao\obj\Debug\net8.0\ExercicioExcecao.csproj.CoreCompileInputs.cache
+C:\Users\fazso\source\repos\ExercicioExcecao\ExercicioExcecao\obj\Debug\net8.0\ExercicioExcecao.dll
+C:\Users\fazso\source\repos\ExercicioExcecao\ExercicioExcecao\obj\Debug\net8.0\refint\ExercicioExcecao.dll
+C:\Users\fazso\source\repos\ExercicioExcecao\ExercicioExcecao\obj\Debug\net8.0\ExercicioExcecao.pdb
+C:\Users\fazso\source\repos\ExercicioExcecao\ExercicioExcecao\obj\Debug\net8.0\ExercicioExcecao.genruntimeconfig.cache
+C:\Users\fazso\source\repos\ExercicioExcecao\ExercicioExcecao\obj\Debug\net8.0\ref\ExercicioExcecao.dll
