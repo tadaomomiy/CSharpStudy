@@ -1,0 +1,14 @@
+C:\Users\fazso\source\repos\ExInterfaces\ExInterfaces\obj\Debug\net8.0\ExInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fazso\source\repos\ExInterfaces\ExInterfaces\obj\Debug\net8.0\ExInterfaces.AssemblyInfoInputs.cache
+C:\Users\fazso\source\repos\ExInterfaces\ExInterfaces\obj\Debug\net8.0\ExInterfaces.AssemblyInfo.cs
+C:\Users\fazso\source\repos\ExInterfaces\ExInterfaces\obj\Debug\net8.0\ExInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\fazso\source\repos\ExInterfaces\ExInterfaces\bin\Debug\net8.0\ExInterfaces.exe
+C:\Users\fazso\source\repos\ExInterfaces\ExInterfaces\bin\Debug\net8.0\ExInterfaces.deps.json
+C:\Users\fazso\source\repos\ExInterfaces\ExInterfaces\bin\Debug\net8.0\ExInterfaces.runtimeconfig.json
+C:\Users\fazso\source\repos\ExInterfaces\ExInterfaces\bin\Debug\net8.0\ExInterfaces.dll
+C:\Users\fazso\source\repos\ExInterfaces\ExInterfaces\bin\Debug\net8.0\ExInterfaces.pdb
+C:\Users\fazso\source\repos\ExInterfaces\ExInterfaces\obj\Debug\net8.0\ExInterfaces.dll
+C:\Users\fazso\source\repos\ExInterfaces\ExInterfaces\obj\Debug\net8.0\refint\ExInterfaces.dll
+C:\Users\fazso\source\repos\ExInterfaces\ExInterfaces\obj\Debug\net8.0\ExInterfaces.pdb
+C:\Users\fazso\source\repos\ExInterfaces\ExInterfaces\obj\Debug\net8.0\ExInterfaces.genruntimeconfig.cache
+C:\Users\fazso\source\repos\ExInterfaces\ExInterfaces\obj\Debug\net8.0\ref\ExInterfaces.dll
