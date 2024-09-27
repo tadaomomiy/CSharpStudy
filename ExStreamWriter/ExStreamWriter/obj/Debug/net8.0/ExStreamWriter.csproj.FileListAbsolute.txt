@@ -1,0 +1,14 @@
+C:\Users\fazso\source\repos\ExStreamWriter\ExStreamWriter\bin\Debug\net8.0\ExStreamWriter.exe
+C:\Users\fazso\source\repos\ExStreamWriter\ExStreamWriter\bin\Debug\net8.0\ExStreamWriter.deps.json
+C:\Users\fazso\source\repos\ExStreamWriter\ExStreamWriter\bin\Debug\net8.0\ExStreamWriter.runtimeconfig.json
+C:\Users\fazso\source\repos\ExStreamWriter\ExStreamWriter\bin\Debug\net8.0\ExStreamWriter.dll
+C:\Users\fazso\source\repos\ExStreamWriter\ExStreamWriter\bin\Debug\net8.0\ExStreamWriter.pdb
+C:\Users\fazso\source\repos\ExStreamWriter\ExStreamWriter\obj\Debug\net8.0\ExStreamWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fazso\source\repos\ExStreamWriter\ExStreamWriter\obj\Debug\net8.0\ExStreamWriter.AssemblyInfoInputs.cache
+C:\Users\fazso\source\repos\ExStreamWriter\ExStreamWriter\obj\Debug\net8.0\ExStreamWriter.AssemblyInfo.cs
+C:\Users\fazso\source\repos\ExStreamWriter\ExStreamWriter\obj\Debug\net8.0\ExStreamWriter.csproj.CoreCompileInputs.cache
+C:\Users\fazso\source\repos\ExStreamWriter\ExStreamWriter\obj\Debug\net8.0\ExStreamWriter.dll
+C:\Users\fazso\source\repos\ExStreamWriter\ExStreamWriter\obj\Debug\net8.0\refint\ExStreamWriter.dll
+C:\Users\fazso\source\repos\ExStreamWriter\ExStreamWriter\obj\Debug\net8.0\ExStreamWriter.pdb
+C:\Users\fazso\source\repos\ExStreamWriter\ExStreamWriter\obj\Debug\net8.0\ExStreamWriter.genruntimeconfig.cache
+C:\Users\fazso\source\repos\ExStreamWriter\ExStreamWriter\obj\Debug\net8.0\ref\ExStreamWriter.dll

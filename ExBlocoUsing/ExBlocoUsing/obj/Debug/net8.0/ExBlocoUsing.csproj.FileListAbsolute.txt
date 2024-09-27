@@ -1,0 +1,14 @@
+C:\Users\fazso\source\repos\ExBlocoUsing\ExBlocoUsing\bin\Debug\net8.0\ExBlocoUsing.exe
+C:\Users\fazso\source\repos\ExBlocoUsing\ExBlocoUsing\bin\Debug\net8.0\ExBlocoUsing.deps.json
+C:\Users\fazso\source\repos\ExBlocoUsing\ExBlocoUsing\bin\Debug\net8.0\ExBlocoUsing.runtimeconfig.json
+C:\Users\fazso\source\repos\ExBlocoUsing\ExBlocoUsing\bin\Debug\net8.0\ExBlocoUsing.dll
+C:\Users\fazso\source\repos\ExBlocoUsing\ExBlocoUsing\bin\Debug\net8.0\ExBlocoUsing.pdb
+C:\Users\fazso\source\repos\ExBlocoUsing\ExBlocoUsing\obj\Debug\net8.0\ExBlocoUsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fazso\source\repos\ExBlocoUsing\ExBlocoUsing\obj\Debug\net8.0\ExBlocoUsing.AssemblyInfoInputs.cache
+C:\Users\fazso\source\repos\ExBlocoUsing\ExBlocoUsing\obj\Debug\net8.0\ExBlocoUsing.AssemblyInfo.cs
+C:\Users\fazso\source\repos\ExBlocoUsing\ExBlocoUsing\obj\Debug\net8.0\ExBlocoUsing.csproj.CoreCompileInputs.cache
+C:\Users\fazso\source\repos\ExBlocoUsing\ExBlocoUsing\obj\Debug\net8.0\ExBlocoUsing.dll
+C:\Users\fazso\source\repos\ExBlocoUsing\ExBlocoUsing\obj\Debug\net8.0\refint\ExBlocoUsing.dll
+C:\Users\fazso\source\repos\ExBlocoUsing\ExBlocoUsing\obj\Debug\net8.0\ExBlocoUsing.pdb
+C:\Users\fazso\source\repos\ExBlocoUsing\ExBlocoUsing\obj\Debug\net8.0\ExBlocoUsing.genruntimeconfig.cache
+C:\Users\fazso\source\repos\ExBlocoUsing\ExBlocoUsing\obj\Debug\net8.0\ref\ExBlocoUsing.dll
