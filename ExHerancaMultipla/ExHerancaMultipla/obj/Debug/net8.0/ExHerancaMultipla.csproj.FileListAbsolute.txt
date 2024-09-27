@@ -1,0 +1,14 @@
+C:\Users\fazso\source\repos\ExHerancaMultipla\ExHerancaMultipla\bin\Debug\net8.0\ExHerancaMultipla.exe
+C:\Users\fazso\source\repos\ExHerancaMultipla\ExHerancaMultipla\bin\Debug\net8.0\ExHerancaMultipla.deps.json
+C:\Users\fazso\source\repos\ExHerancaMultipla\ExHerancaMultipla\bin\Debug\net8.0\ExHerancaMultipla.runtimeconfig.json
+C:\Users\fazso\source\repos\ExHerancaMultipla\ExHerancaMultipla\bin\Debug\net8.0\ExHerancaMultipla.dll
+C:\Users\fazso\source\repos\ExHerancaMultipla\ExHerancaMultipla\bin\Debug\net8.0\ExHerancaMultipla.pdb
+C:\Users\fazso\source\repos\ExHerancaMultipla\ExHerancaMultipla\obj\Debug\net8.0\ExHerancaMultipla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fazso\source\repos\ExHerancaMultipla\ExHerancaMultipla\obj\Debug\net8.0\ExHerancaMultipla.AssemblyInfoInputs.cache
+C:\Users\fazso\source\repos\ExHerancaMultipla\ExHerancaMultipla\obj\Debug\net8.0\ExHerancaMultipla.AssemblyInfo.cs
+C:\Users\fazso\source\repos\ExHerancaMultipla\ExHerancaMultipla\obj\Debug\net8.0\ExHerancaMultipla.csproj.CoreCompileInputs.cache
+C:\Users\fazso\source\repos\ExHerancaMultipla\ExHerancaMultipla\obj\Debug\net8.0\ExHerancaMultipla.dll
+C:\Users\fazso\source\repos\ExHerancaMultipla\ExHerancaMultipla\obj\Debug\net8.0\refint\ExHerancaMultipla.dll
+C:\Users\fazso\source\repos\ExHerancaMultipla\ExHerancaMultipla\obj\Debug\net8.0\ExHerancaMultipla.pdb
+C:\Users\fazso\source\repos\ExHerancaMultipla\ExHerancaMultipla\obj\Debug\net8.0\ExHerancaMultipla.genruntimeconfig.cache
+C:\Users\fazso\source\repos\ExHerancaMultipla\ExHerancaMultipla\obj\Debug\net8.0\ref\ExHerancaMultipla.dll
