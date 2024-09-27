@@ -1,0 +1,14 @@
+C:\Users\fazso\source\repos\ExercicioInterface\ExercicioInterface\bin\Debug\net8.0\ExercicioInterface.exe
+C:\Users\fazso\source\repos\ExercicioInterface\ExercicioInterface\bin\Debug\net8.0\ExercicioInterface.deps.json
+C:\Users\fazso\source\repos\ExercicioInterface\ExercicioInterface\bin\Debug\net8.0\ExercicioInterface.runtimeconfig.json
+C:\Users\fazso\source\repos\ExercicioInterface\ExercicioInterface\bin\Debug\net8.0\ExercicioInterface.dll
+C:\Users\fazso\source\repos\ExercicioInterface\ExercicioInterface\bin\Debug\net8.0\ExercicioInterface.pdb
+C:\Users\fazso\source\repos\ExercicioInterface\ExercicioInterface\obj\Debug\net8.0\ExercicioInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fazso\source\repos\ExercicioInterface\ExercicioInterface\obj\Debug\net8.0\ExercicioInterface.AssemblyInfoInputs.cache
+C:\Users\fazso\source\repos\ExercicioInterface\ExercicioInterface\obj\Debug\net8.0\ExercicioInterface.AssemblyInfo.cs
+C:\Users\fazso\source\repos\ExercicioInterface\ExercicioInterface\obj\Debug\net8.0\ExercicioInterface.csproj.CoreCompileInputs.cache
+C:\Users\fazso\source\repos\ExercicioInterface\ExercicioInterface\obj\Debug\net8.0\ExercicioInterface.dll
+C:\Users\fazso\source\repos\ExercicioInterface\ExercicioInterface\obj\Debug\net8.0\refint\ExercicioInterface.dll
+C:\Users\fazso\source\repos\ExercicioInterface\ExercicioInterface\obj\Debug\net8.0\ExercicioInterface.pdb
+C:\Users\fazso\source\repos\ExercicioInterface\ExercicioInterface\obj\Debug\net8.0\ExercicioInterface.genruntimeconfig.cache
+C:\Users\fazso\source\repos\ExercicioInterface\ExercicioInterface\obj\Debug\net8.0\ref\ExercicioInterface.dll
