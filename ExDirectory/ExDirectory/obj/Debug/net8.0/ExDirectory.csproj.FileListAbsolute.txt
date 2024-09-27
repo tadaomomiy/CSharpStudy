@@ -1,0 +1,14 @@
+C:\Users\fazso\source\repos\ExDirectory\ExDirectory\bin\Debug\net8.0\ExDirectory.exe
+C:\Users\fazso\source\repos\ExDirectory\ExDirectory\bin\Debug\net8.0\ExDirectory.deps.json
+C:\Users\fazso\source\repos\ExDirectory\ExDirectory\bin\Debug\net8.0\ExDirectory.runtimeconfig.json
+C:\Users\fazso\source\repos\ExDirectory\ExDirectory\bin\Debug\net8.0\ExDirectory.dll
+C:\Users\fazso\source\repos\ExDirectory\ExDirectory\bin\Debug\net8.0\ExDirectory.pdb
+C:\Users\fazso\source\repos\ExDirectory\ExDirectory\obj\Debug\net8.0\ExDirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fazso\source\repos\ExDirectory\ExDirectory\obj\Debug\net8.0\ExDirectory.AssemblyInfoInputs.cache
+C:\Users\fazso\source\repos\ExDirectory\ExDirectory\obj\Debug\net8.0\ExDirectory.AssemblyInfo.cs
+C:\Users\fazso\source\repos\ExDirectory\ExDirectory\obj\Debug\net8.0\ExDirectory.csproj.CoreCompileInputs.cache
+C:\Users\fazso\source\repos\ExDirectory\ExDirectory\obj\Debug\net8.0\ExDirectory.dll
+C:\Users\fazso\source\repos\ExDirectory\ExDirectory\obj\Debug\net8.0\refint\ExDirectory.dll
+C:\Users\fazso\source\repos\ExDirectory\ExDirectory\obj\Debug\net8.0\ExDirectory.pdb
+C:\Users\fazso\source\repos\ExDirectory\ExDirectory\obj\Debug\net8.0\ExDirectory.genruntimeconfig.cache
+C:\Users\fazso\source\repos\ExDirectory\ExDirectory\obj\Debug\net8.0\ref\ExDirectory.dll

@@ -1,0 +1,14 @@
+C:\Users\fazso\source\repos\ExercicioStream\ExercicioStream\bin\Debug\net8.0\ExercicioStream.exe
+C:\Users\fazso\source\repos\ExercicioStream\ExercicioStream\bin\Debug\net8.0\ExercicioStream.deps.json
+C:\Users\fazso\source\repos\ExercicioStream\ExercicioStream\bin\Debug\net8.0\ExercicioStream.runtimeconfig.json
+C:\Users\fazso\source\repos\ExercicioStream\ExercicioStream\bin\Debug\net8.0\ExercicioStream.dll
+C:\Users\fazso\source\repos\ExercicioStream\ExercicioStream\bin\Debug\net8.0\ExercicioStream.pdb
+C:\Users\fazso\source\repos\ExercicioStream\ExercicioStream\obj\Debug\net8.0\ExercicioStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fazso\source\repos\ExercicioStream\ExercicioStream\obj\Debug\net8.0\ExercicioStream.AssemblyInfoInputs.cache
+C:\Users\fazso\source\repos\ExercicioStream\ExercicioStream\obj\Debug\net8.0\ExercicioStream.AssemblyInfo.cs
+C:\Users\fazso\source\repos\ExercicioStream\ExercicioStream\obj\Debug\net8.0\ExercicioStream.csproj.CoreCompileInputs.cache
+C:\Users\fazso\source\repos\ExercicioStream\ExercicioStream\obj\Debug\net8.0\ExercicioStream.dll
+C:\Users\fazso\source\repos\ExercicioStream\ExercicioStream\obj\Debug\net8.0\refint\ExercicioStream.dll
+C:\Users\fazso\source\repos\ExercicioStream\ExercicioStream\obj\Debug\net8.0\ExercicioStream.pdb
+C:\Users\fazso\source\repos\ExercicioStream\ExercicioStream\obj\Debug\net8.0\ExercicioStream.genruntimeconfig.cache
+C:\Users\fazso\source\repos\ExercicioStream\ExercicioStream\obj\Debug\net8.0\ref\ExercicioStream.dll

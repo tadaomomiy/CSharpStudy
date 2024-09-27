@@ -1,0 +1,14 @@
+C:\Users\fazso\source\repos\ExPath\ExPath\bin\Debug\net8.0\ExPath.exe
+C:\Users\fazso\source\repos\ExPath\ExPath\bin\Debug\net8.0\ExPath.deps.json
+C:\Users\fazso\source\repos\ExPath\ExPath\bin\Debug\net8.0\ExPath.runtimeconfig.json
+C:\Users\fazso\source\repos\ExPath\ExPath\bin\Debug\net8.0\ExPath.dll
+C:\Users\fazso\source\repos\ExPath\ExPath\bin\Debug\net8.0\ExPath.pdb
+C:\Users\fazso\source\repos\ExPath\ExPath\obj\Debug\net8.0\ExPath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fazso\source\repos\ExPath\ExPath\obj\Debug\net8.0\ExPath.AssemblyInfoInputs.cache
+C:\Users\fazso\source\repos\ExPath\ExPath\obj\Debug\net8.0\ExPath.AssemblyInfo.cs
+C:\Users\fazso\source\repos\ExPath\ExPath\obj\Debug\net8.0\ExPath.csproj.CoreCompileInputs.cache
+C:\Users\fazso\source\repos\ExPath\ExPath\obj\Debug\net8.0\ExPath.dll
+C:\Users\fazso\source\repos\ExPath\ExPath\obj\Debug\net8.0\refint\ExPath.dll
+C:\Users\fazso\source\repos\ExPath\ExPath\obj\Debug\net8.0\ExPath.pdb
+C:\Users\fazso\source\repos\ExPath\ExPath\obj\Debug\net8.0\ExPath.genruntimeconfig.cache
+C:\Users\fazso\source\repos\ExPath\ExPath\obj\Debug\net8.0\ref\ExPath.dll
